@@ -1,5 +1,5 @@
 <script setup>
-import Navbar from './components/layout/navbar.vue';
+import Navbar from './components/layout/Navbar.vue';
 import Intro from './components/layout/Intro.vue';
 import PhilosophySection from './components/layout/PhilosophySection.vue';
 import DestinationsSection from './components/layout/DestinationsSection.vue';
