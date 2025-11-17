@@ -21,4 +21,5 @@ onMounted(() => {
 
   if (animatedElement.value) observer.observe(animatedElement.value);
 });
+
 </script>
